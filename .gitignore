@@ -1,2 +1,9 @@
-/nvenev
+/nvenv
+/sounds
+/soundsmidi
+/soundsmidi3
+/soundwav2
+
 main.py
+new.py
+convert.py
